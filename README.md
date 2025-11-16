@@ -56,11 +56,10 @@ sudo apt-get update && sudo apt-get install -y ffmpeg
 brew install ffmpeg
 ```
 
-**然后安装项目：**
+**然后安装依赖：**
 
 ```bash
-# 克隆项目并进入项目根目录
-git clone <your-repo-url>
+# 进入项目根目录
 cd VoiceClone-Studio
 
 # 创建虚拟环境并激活（推荐使用 Python 3.12）
