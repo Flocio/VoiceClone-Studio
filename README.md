@@ -1,6 +1,6 @@
 # AI 音频生成系统 - GPT-SoVITS
 
-> 基于 GPT-SoVITS 的高质量声音克隆系统，支持多样本深度学习训练，实现 95%+ 相似度的语音合成效果
+> 基于 GPT-SoVITS 的高质量声音克隆系统，支持多样本深度学习训练，实现高相似度的语音合成效果
 
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![GPT-SoVITS](https://img.shields.io/badge/Engine-GPT--SoVITS-green.svg)](https://github.com/RVC-Boss/GPT-SoVITS)
@@ -232,6 +232,8 @@ python app.py
 2. 上传若干音频样本（每个 10-20 秒即可）
 3. 点击「开始训练」（包括数据预处理，GPT训练，SoVITS训练）
 4. 生成高质量语音
+
+![example](./images/example.png)
 
 ---
 
