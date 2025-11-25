@@ -88,7 +88,7 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/
 
 ```bash
 # 克隆 GPT-SoVITS
-git clone https://github.com/Adam-226/GPT-SoVITS.git GPT-SoVITS-main
+git clone https://github.com/ucira/GPT-SoVITS.git GPT-SoVITS-main
 
 # 创建必要的模型和缓存目录
 cd GPT-SoVITS-main
